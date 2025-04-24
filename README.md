@@ -77,7 +77,7 @@ http://localhost:8080/swagger-ui.html
   - Request Body:
     ```json
     {
-      "empCode": "EMP001",
+      "empCode": "RRS202504241",
       "dob": "1990-01-01"
     }
     ```
@@ -95,9 +95,9 @@ http://localhost:8080/swagger-ui.html
   - Request Body:
     ```json
     {
-      "empCode": "EMP001",
-      "name": "John Doe",
-      "email": "john.doe@example.com"
+      "empCode": "RRS202504241",
+      "name": "Rohit Sharma",
+      "email": "syncwithrohit@gmail.com"
     }
     ```
   - Response:
@@ -144,15 +144,15 @@ http://localhost:8080/swagger-ui.html
   - Request Body:
     ```json
     {
-      "empCode": "EMP001",
+      "empCode": "RRS202504241",
       "dob": "1990-01-01"
     }
     ```
   - Response:
     ```json
     {
-      "empCode": "EMP001",
-      "name": "John Doe"
+      "empCode": "RRS202504241",
+      "name": "Rohit Sharma"
     }
     ```
 
